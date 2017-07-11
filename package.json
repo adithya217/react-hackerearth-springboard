@@ -1,0 +1,15 @@
+{
+  "name": "springboard-frontend-challenge",
+  "version": "1.0.0",
+  "description": "A webapp for the Springboard frontend challenge using nodejs and ReactJS",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Aditya Chebiyyam",
+  "license": "ISC"
+}
